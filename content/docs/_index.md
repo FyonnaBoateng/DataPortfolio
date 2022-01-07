@@ -4,6 +4,6 @@ type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _Project Docs_ template!
+Welcome to my project documentation. Here I will describe any personal projects involving data analytics / science. 
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+{{< cta cta_text="👉 Let's see" cta_link="chapter1" >}}
