@@ -10,7 +10,7 @@ weight: 1
 
 ## Are Birds Real?
 
-Ah yes, yet again we are subject to seemingly unthinkable trends on the internet. I noticed a few months ago that the conspiracy *Birds Aren't Real* was blowing up on twitter and reddit, and I wondered if there was anything interesting about who was tweeting it, what they were tweeting about, and why. Welp, I'll give it a shot with the little information I've taught myself. 
+Ah yes, yet again we are subject to seemingly unthinkable trends on the internet. I noticed a few months ago that the conspiracy *Birds Aren't Real* was blowing up on Twitter and Reddit, and I wondered if there was anything interesting about who was tweeting it, what they were tweeting about, and why. Welp, I'll give it a shot with the little information I've taught myself. 
 
 Wikipedia gives a great explanation of the origins of this theory: https://en.wikipedia.org/wiki/Birds_Aren%27t_Real
 
