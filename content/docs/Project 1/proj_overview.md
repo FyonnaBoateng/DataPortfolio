@@ -14,7 +14,7 @@ Ah yes, yet again we are subject to seemingly unthinkable trends on the internet
 
 Wikipedia gives a great explanation of the origins of this theory: https://en.wikipedia.org/wiki/Birds_Aren%27t_Real
 
-## Data - Where is it from>
+## Data - Where is it from?
 
 I grabbed some data from the lovely Kaggle.com from both Reddit and Twitter. Whether I will use both of these datasets... time will tell. 
 https://www.kaggle.com/gpreda/birds-arent-real
