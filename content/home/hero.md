@@ -8,6 +8,6 @@ Thanks so much for visiting and I hope that my site is enjoyable to visit. This 
 
 Feedback is always appreciated. 
 
-<a href="#" class="button big"> Yell at me! (https://www.linkedin.com/in/fyonna/)</a>
+<a href="#" class="button icon comment">comment</a>
 
 Fy
