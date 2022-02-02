@@ -11,18 +11,10 @@ weight: 1
 
 ## Exploratory Data Analysis (EDA) (Work in Progress)
 
-To start, I'm going to do an exploratory data analysis on both data sets. I'm using the *Machine Learning With Python* by Oliver Theobald as a starting point. 
-
-
+To start, I'm going to do an exploratory data analysis on both data sets. I'm using the *Machine Learning With Python* by Oliver Theobald as a starting point.
 Let's start by importing Pandas, Seaborn, and Matplotlib.
 
-
-Let's continue by importing the data set. I'll start with the Reddit one. 
-
+![And so it begins..](imageoneBAR.jpg)
 
 
-
-
-
-
-
+Let's continue by importing the data set. I'll start with the Reddit one.
