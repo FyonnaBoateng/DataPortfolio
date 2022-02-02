@@ -9,7 +9,9 @@ weight: 2
 
 Here's the books that I used for this project. 
 
-Python Crash Course 2nd Edition - Eric Matthes \\ 
-Python for Data Analysis - Wes McKinney \\
-Machine Learning for Beginners - Oliver Theobald \\
-Machine Learning with Python - Oliver Theobald \\
+
+
+Python Crash Course 2nd Edition - Eric Matthes   
+Python for Data Analysis - Wes McKinney   
+Machine Learning for Beginners - Oliver Theobald   
+Machine Learning with Python - Oliver Theobald   
