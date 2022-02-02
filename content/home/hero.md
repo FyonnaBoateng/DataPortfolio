@@ -2,7 +2,7 @@
 
 Hi there! My name is Fyonna Boateng and I am a Psychology undergraduate at the University of Reading.
 
-I have a developing interest in the relationship between social sciences and data science/analytics. This portfolio will document my progress as I teach myself Python, SQL, and LaTeX .I will more specifically focus on learning how to use Python to analyse data, and potentially learn basic machine learning (ML). 
+I have a developing interest in the relationship between social sciences and data science/analytics. This portfolio will document my progress as I teach myself Python, SQL, and LaTeX. I will more specifically focus on learning how to use Python to analyse data, and potentially learn basic machine learning (ML). 
 
 I hope to be able to make sense of scattered, heterogenous data in order to assist in making informed decisions based on human behaviour. 
 
