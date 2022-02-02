@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Are Birds Real?
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: A social phenomenon explained by data?
 weight: 1
 icon: book-reader
 icon_pack: fas
@@ -25,5 +25,11 @@ https://www.kaggle.com/gpreda/birds-arent-real
 https://www.kaggle.com/gpreda/birds-arent-real-on-twitter-either
 
 I haven't a clue what exactly to do now, but I think I'll start with an exploratory data analysis (EDA) to get an idea of what potential patterns could be present in this data. There might not be any. That's okay too.
+
+I have some theories about what I could potentially see in the data:
+
+1) I have a feeling that Social Identity Theory will have some influence here. An example being that individuals will receive more downvotes if their post or comment is incongruous with the rest of the subreddit. 
+
+2) The language of conspiracy - SAGE Journals <-- this study influences my second theory. I feel that similar findings will be present here. I'll use the main words and themes found here to see if their findings are applicable and able to be replicated in this context. 
 
 [comment]: <> (try to find the reason why people are coming together with this, potentially investigate whether there are people who are trying to disagree? social identity theory?) 
