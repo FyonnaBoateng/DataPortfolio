@@ -32,4 +32,6 @@ I have some theories about what I could potentially see in the data:
 
 2) "[This](https://journals.sagepub.com/doi/full/10.1177/1368430220987596)" study influences my second theory. I feel that similar findings will be present here, and that there will be a strong presence of aggressive words, dividing language, etc. I'll use the main words and themes found here to see if their findings are applicable and able to be replicated in this context.
 
+Generally speaking, I have lot of specific questions: What social factors tend to be associated with being more active in the group? Are there certain demographics that are more active than others? What emotional aspects seem to be present in these groups?
+
 With all of that out of the way, now it's time to get into the data! 

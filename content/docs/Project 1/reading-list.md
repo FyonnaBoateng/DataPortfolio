@@ -15,3 +15,8 @@ Python Crash Course 2nd Edition - Eric Matthes
 Python for Data Analysis - Wes McKinney   
 Machine Learning for Beginners - Oliver Theobald   
 Machine Learning with Python - Oliver Theobald   
+
+
+I also used the following link to run a sentiment analysis: https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
+
+
