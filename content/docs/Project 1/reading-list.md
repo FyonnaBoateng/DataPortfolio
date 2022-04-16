@@ -7,8 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-Here's the books that I used for this project. 
-
+Here's the books that I used for this project (and for my self-taught Python journey in general). 
 
 
 Python Crash Course 2nd Edition - Eric Matthes   
@@ -17,6 +16,6 @@ Machine Learning for Beginners - Oliver Theobald
 Machine Learning with Python - Oliver Theobald   
 
 
-I also used the following link to run a sentiment analysis: https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
+I'm also looking at this link to run a sentiment analysis:  https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
 
 
