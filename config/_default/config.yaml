@@ -5,8 +5,7 @@
 
 title: 'Fyonna Boateng' # Website name
 baseurl: '' # Website URL
-copyright: 'Fyonna Boateng's Portfolio (2021-2022)' # Footer text, e.g. '© {year} Me'
-
+copyright: '' # Footer text, e.g. '© {year} Me
 ############################
 ## LANGUAGE
 ############################
