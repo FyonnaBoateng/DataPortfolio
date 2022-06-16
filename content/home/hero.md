@@ -6,9 +6,11 @@ I have a developing interest in the relationship between social sciences and dat
 
 I hope to be able to make sense of scattered, heterogenous data in order to assist in making informed decisions based on human behaviour. 
 
-Thanks so much for visiting and I hope that my site is enjoyable to visit. This entire site is designed using my GitHub, which is always a challenge. 
+Thanks so much for visiting and I hope that my site is enjoyable to visit. This entire site is designed using my GitHub.
 
-If you wish to contact me, feel free to click above and send me a message on LinkedIn. 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fyonna" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/fyonna?trk=profile-badge">Fyonna Boateng</a></div>
+              
 
 Fy
